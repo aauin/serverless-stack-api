@@ -45,8 +45,8 @@ Session.vim
 .serverless
 
 # env
-env.yml
 .env
+env.yml
 
 # Jetbrains IDEs
 .idea
